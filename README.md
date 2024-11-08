@@ -1,4 +1,4 @@
-<img align="right" width="100px" src="./assets/sprunki-logo.png" alt="Sprunki Online Logo">
+ <a href="https://sprunkionline.com"><img align="right" width="100px" src="./assets/sprunki-logo.png" alt="Sprunki Online Logo"></a>
 
 # Sprunki Retake
 
